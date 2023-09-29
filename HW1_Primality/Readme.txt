@@ -4,4 +4,4 @@ HW1_(i)_and_(iii): 1.jpg ~ 10.jpg are the first part of the Basic Prime Testing 
 
 HW2_(ii): 1.jpg ~ 10.jpg are the first part of the Sieve of Eratosthenes displaying pictures. To show the realation between input size(bits) n and running time, for all i.jpg, i starts from 1 to 30, the program will find all primality elements in the range of (2, 2^(i)).
 11.jpg ~ 20.jpg are the second part of these.
-21.jpg ~ 28.jpg are the third part of these.
+21.jpg ~ 27.jpg are the third part of these.
