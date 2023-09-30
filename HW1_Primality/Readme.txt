@@ -6,4 +6,4 @@ HW2_(ii): 1.jpg ~ 10.jpg are the first part of the Sieve of Eratosthenes display
 11.jpg ~ 20.jpg are the second part of these.
 21.jpg ~ 27.jpg are the third part of these.
 
-HW3_(iii): The folder is the result of the Fermat Primality Testing displaying pictures, To show the ratio of correction between input size(digit) and ability to hit right answer, for all i.jpg, if i is odd, then it is a prime number test. Otherwise, a non-prime number test. "10_digit_with_1_to_25" is the last test that I tried to let my program mistake, but I eventually was failed. The correction is 100%. 
+HW3_(iii)_and_(iv): The folder is the result of the Fermat Primality Testing displaying pictures, To show the ratio of correction between input size(digit) and ability to hit right answer, for all i.jpg, if i is odd, then it is a prime number test. Otherwise, a non-prime number test. I used the same samples for 3 to 10 digit testing, and "digits_with_1_to_25" is the last test that I tried to let my program mistake, but I eventually was failed. The correction both is 100%, I can't make either (iii) or (iv) algorithm mistake.
